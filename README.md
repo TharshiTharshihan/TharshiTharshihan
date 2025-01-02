@@ -14,7 +14,7 @@ Passionate about technology and open to discussions.
 -📫 How to Reach Me:
 <br />
         [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]([https://twitter.com/hareesh_dev](https://mail.google.com/))
-        [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/R.Tharshihan/)
+        [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r-tharshihan-439653300?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9KRwI%2BcJStO5ji7uaC74Zw%3D%3D)
 
 
 ### I code in
